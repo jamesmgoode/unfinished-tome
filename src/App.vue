@@ -26,13 +26,15 @@ body {
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
 main {
-  text-align: center;
   max-width: 800px;
   margin: 40px auto;
+}
+
+h1 {
+  text-align: center;
 }
 </style>
