@@ -36,9 +36,10 @@ header {
 
 .header-bar {
   padding: 10px 0;
-  margin: auto 50px;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
+  max-width: 1000px;
 }
 
 .header-links {
