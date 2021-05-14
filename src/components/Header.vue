@@ -6,6 +6,12 @@
           The Unfinished Tome
         </router-link>
         <div class="header-links">
+          <router-link to="/rules" class="header-link header-page-link">
+            Rules
+          </router-link>
+          <router-link to="/world" class="header-link header-page-link">
+            World
+          </router-link>
           <router-link to="/events" class="header-link header-page-link">
             Events
           </router-link>
