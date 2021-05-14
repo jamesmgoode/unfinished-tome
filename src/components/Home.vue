@@ -1,6 +1,7 @@
 <template>
   <div class="home">
-    <h1>Home</h1>
+    <h1>The Unfinished Tome</h1>
+    <img src="../assets/scroll-ghost.jpg" />
   </div>
 </template>
 
