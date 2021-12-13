@@ -39,7 +39,7 @@ header {
   margin: auto;
   display: flex;
   flex-wrap: wrap;
-  max-width: 1000px;
+  max-width: 800px;
 }
 
 .header-links {
