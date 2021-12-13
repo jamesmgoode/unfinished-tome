@@ -1,12 +1,13 @@
 <template>
-  <div class="character-creation">
-    <h2>Character Creation</h2>
+  <div class="rules">
+    <h1>Rules</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: "CharacterCreation",
+  name: "Rules",
+  components: {},
 };
 </script>
 

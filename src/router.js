@@ -1,8 +1,8 @@
 import Router from 'vue-router'
-import Home from './components/Home.vue'
-import Events from './components/Events.vue'
-import Rules from './components/Rules.vue'
-import World from './components/World.vue'
+import Home from './pages/Home.vue'
+import Events from './pages/Events.vue'
+import Rules from './pages/Rules.vue'
+import World from './pages/World.vue'
 
 export default new Router({
     mode: 'history',
