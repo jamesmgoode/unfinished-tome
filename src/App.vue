@@ -21,6 +21,7 @@ export default {
 <style>
 body {
   margin: 0;
+  background-color: black;
 }
 
 #app {
@@ -31,10 +32,16 @@ body {
 
 main {
   max-width: 800px;
-  margin: 40px auto;
+  margin: 80px auto;
 }
 
 h1 {
   text-align: center;
+}
+
+Header {
+  position: fixed;
+  width: 100%;
+  margin-top: -80px;
 }
 </style>
