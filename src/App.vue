@@ -21,18 +21,27 @@ export default {
 <style>
 body {
   margin: 0;
+  background-color: black;
 }
 
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
 main {
-  text-align: center;
   max-width: 800px;
-  margin: 40px auto;
+  margin: 80px auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+Header {
+  position: fixed;
+  width: 100%;
+  margin-top: -80px;
 }
 </style>
