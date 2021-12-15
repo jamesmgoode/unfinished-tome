@@ -12,6 +12,9 @@
           <router-link to="/world" class="header-link header-page-link">
             World
           </router-link>
+          <router-link to="/lineage" class="header-link header-page-link">
+            Lineage
+          </router-link>
           <router-link to="/events" class="header-link header-page-link">
             Events
           </router-link>

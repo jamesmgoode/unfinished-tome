@@ -3,6 +3,7 @@ import Home from './pages/Home.vue'
 import Events from './pages/Events.vue'
 import Rules from './pages/Rules.vue'
 import World from './pages/World.vue'
+import Lineage from './pages/Lineage.vue'
 
 export default new Router({
     mode: 'history',
@@ -22,6 +23,10 @@ export default new Router({
         {
             path: '/world',
             component: World
+        },
+        {
+            path: '/lineage',
+            component: Lineage
         }
     ]
 })
